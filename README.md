@@ -1,3 +1,6 @@
+# Deprecated
+This project has been moved to [@skuyjs/query-builder](https://github.com/skuyjs/query-builder)
+
 # @hamjs/query-builder
 SQL query builder for NodeJS
 
